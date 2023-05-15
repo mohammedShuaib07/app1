@@ -64,6 +64,9 @@ const Home = () => {
             <div className="img">
               <img src={gif1} />
             </div>
+            <div className="img">
+              <img src={gif1} />
+            </div>
           </div>
         </div>
       </div>
